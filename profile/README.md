@@ -1,6 +1,7 @@
 ## Hi there 👋
+![ProgrammerError](https://user-images.githubusercontent.com/40263305/133959869-82163f43-fafd-4ba7-aa25-c8a5048740c6.png)
 
-🙋‍♀️ A short introduction - We are team ProgrammerError
+🙋‍♀️ A short introduction - We are ProgrammerError (CS2103-F09-3)
 
 🌈 Contribution guidelines - Feel free to reach out to us regarding any issues!
 
